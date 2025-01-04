@@ -1,5 +1,5 @@
 # location-api-final
-Step 1: Cone source code from this repository
+Step 1: Clone source code from this repository
 
 Step 2: In source code root folder, execute below command to build and run source code
 
